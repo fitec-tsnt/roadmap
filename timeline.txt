@@ -1,0 +1,34 @@
+ROADMAP SỐ HOÁ QUỸ
+2021
+Q3/2021
+|___ Xây dựng hệ thống xét cấp lại học bổng
+    |___ Lưu trữ dữ liệu đồng bộ
+    |___ Đơn giản hoá quy trình phỏng vấn
+    |___ Quản lý hiệu quả các deadline, thông báo nhắc việc
+2022
+Q1/2022
+|___ Tiếp tục hoàn thiện hệ thống xét cấp lại
+|___ Tích hợp dữ liệu sức khoẻ vào hệ thống
+Q2 - Q3/2022
+|___ Xây dựng kênh chia sẻ
+    |___ Tạo nơi chia sẻ đồ dùng, vật phẩm lẫn nhau
+Q4/2022
+|___ Xây dựng hệ thống quản lý công việc
+    |___ Đơn giản hoá công tác phân công, phân quyền
+    |___ Nhắc nhở công việc đơn giản, hiệu quả
+Q1 - Q2/2023
+|___ Xây dựng hệ thống xét cấp mới cho tân sinh viên
+Q3 - Q4/2023
+|___ Hoàn thiện và bàn giao hệ thống cho Quỹ học bổng
+
+
+ROADMAP BLOCKCHAIN
+Q4/2021
+|___ Nghiên cứu thị trường
+|___ Nghiên cứu các hệ sinh thái
+Q1/2022
+|___ Tìm kiếm ứng dụng của blockchain vào hệ thống Quỹ
+    |___ Tạo token
+    |___ Tìm cách kết nối giữa Quỹ và thế giới blockchain
+Q2/2022
+|___ Xây dựng ứng dụng blockchain
